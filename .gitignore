@@ -1,1 +1,7 @@
 data/
+classification/ 
+detection/
+raw/ 
+test/
+train/
+val/
