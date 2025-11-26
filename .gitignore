@@ -1,3 +1,4 @@
+notebooks/resnet50_multilabel_cardd_best.pt
 data/
 classification/ 
 detection/
@@ -5,3 +6,5 @@ raw/
 test/
 train/
 val/
+
+notebooks/__pycache__/
